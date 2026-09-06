@@ -1,0 +1,1 @@
+{"version":3,"file":"logger.js","sourceRoot":"","sources":["../../src/decorators/logger.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,MAAM,CACpB,cAAmC,EACnC,QAAqC;IAErC,OAAO,UAAyB,IAAS;QACvC,OAAO,CAAC,GAAG,CAAC,kBAAkB,EAAE,IAAI,CAAC,CAAC;QAEtC,cAAc,CAAC,IAAI,CAAC,IAAI,EAAE,IAAI,CAAC,CAAC;IAClC,CAAC,CAAC;AACJ,CAAC"}
