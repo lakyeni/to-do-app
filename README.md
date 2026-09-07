@@ -1,2 +1,2 @@
 # to-do-app
-hoTypeScript course homework
+TypeScript course homework
